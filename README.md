@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **DomenicoMichienzi/DomenicoMichienzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
