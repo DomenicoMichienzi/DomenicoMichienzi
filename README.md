@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="30" height="30"/>&nbsp;
 </div>
