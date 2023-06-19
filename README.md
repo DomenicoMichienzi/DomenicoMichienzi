@@ -2,11 +2,9 @@
 
 https://domenico-michienzi.super.site/
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ASP.NET Core, C#
 - 🌱 I’m currently learning gRPC, GraphQL
-- 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
