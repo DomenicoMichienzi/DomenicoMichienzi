@@ -3,7 +3,10 @@
 https://domenico-michienzi.super.site/
 
 - 🔭 I’m currently working on ASP.NET Core, C#
+- 🪅 I like to write code in : `C++`, `C#`, `Go` and `Python`
 - 🌱 I’m currently learning gRPC, GraphQL
+- 🕹️ In my spare time, I read, play video games and play sports
+- 📖 I read about computer science, mathematics, science, nonfiction and novels 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
